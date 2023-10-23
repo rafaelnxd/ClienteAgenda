@@ -62,4 +62,4 @@ Como Usar
 Contribuição
 ------------
 
-Ainda existem alguns bugs e funcionalidades a serem melhoradas, contribuições são bem-vindas! Se encontrar bugs, melhorias ou novas funcionalidades que gostaria de adicionar, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+Ainda existem alguns bugs e funcionalidades a serem melhoradas, contribuições são bem-vindas! Se encontrar bugs, por isso melhorias ou novas funcionalidades que gostaria de adicionar, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
