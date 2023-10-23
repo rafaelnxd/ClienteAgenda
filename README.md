@@ -3,6 +3,7 @@ Agenda de Clientes e Produtos em Python
 
 Este projeto consiste em um sistema simples de agenda de clientes e produtos desenvolvido em Python com a interface gráfica Tkinter. A aplicação possibilita a gestão de clientes, permitindo adicionar, listar, editar, remover e buscar, além do gerenciamento de produtos de interesse.
 
+
 Funcionalidades Principais
 --------------------------
 
@@ -47,12 +48,9 @@ Como Usar
 
 3.  Execução:
 
-    -   Navegue até o diretório do projeto e execute o script principal:
+    -   Navegue até o diretório do projeto e inicie o executável.
 
-        bashCopy code
-
-        `cd nome-do-diretorio
-        python main.py`
+    
 
 4.  Operação:
 
@@ -64,4 +62,4 @@ Como Usar
 Contribuição
 ------------
 
-Contribuições são bem-vindas! Se encontrar bugs, melhorias ou novas funcionalidades que gostaria de adicionar, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+Ainda existem alguns bugs e funcionalidades a serem melhoradas, contribuições são bem-vindas! Se encontrar bugs, melhorias ou novas funcionalidades que gostaria de adicionar, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
